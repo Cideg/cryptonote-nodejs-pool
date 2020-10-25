@@ -1,0 +1,124 @@
+2020-03-09 12:25:17
+Error: bind EADDRINUSE 0.0.0.0:8117
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-03-09 12:25:28
+Error: bind EADDRINUSE 0.0.0.0:8117
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-03-09 12:25:39
+Error: bind EADDRINUSE 0.0.0.0:8117
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-03-09 12:26:20
+Error: bind EADDRINUSE 0.0.0.0:8117
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-03-09 12:26:25
+Error: bind EADDRINUSE 0.0.0.0:8117
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-03-09 12:26:30
+Error: bind EADDRINUSE 0.0.0.0:8117
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-04-03 18:46:56
+Error: bind EADDRINUSE 0.0.0.0:9999
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-04-03 18:47:00
+Error: bind EADDRINUSE 0.0.0.0:9999
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-04-17 17:18:51
+Error: bind EADDRINUSE 0.0.0.0:9999
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-04-17 17:18:55
+Error: bind EADDRINUSE 0.0.0.0:9999
+    at listenOnMasterHandle (net.js:1344:16)
+    at rr (internal/cluster/child.js:126:12)
+    at Worker.send (internal/cluster/child.js:93:7)
+    at process.onInternalMessage (internal/cluster/utils.js:45:8)
+    at process.emit (events.js:194:15)
+    at emit (internal/child_process.js:820:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2020-04-18 18:25:41
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+
+2020-04-18 18:25:49
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+
+2020-04-18 18:25:53
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+
+2020-04-18 18:25:57
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+
+2020-04-18 18:26:02
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+
+2020-04-18 18:26:07
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+
